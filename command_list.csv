@@ -1,0 +1,144 @@
+    1  whoami
+    2  help
+    3  help cd
+    4  clear
+    5  help
+    6  cls
+    7  clear
+    8  pwd
+    9  cd
+   10  pwd
+   11  cd destkop
+   12  cd desktop
+   13  pwd
+   14  ls
+   15  dir
+   16  cd Api
+   17  cd APİ
+   18  cd Api
+   19  cd api
+   20  cd My Api
+   21  pwd
+   22  cd Api
+   23  cd ALS
+   24  LS
+   25  clear
+   26  ls
+   27  mkdir Api
+   28  cd Api
+   29  clear
+   30  cd desktop
+   31  cd Api
+   32  git init
+   33  cd ..
+   34  pwd
+   35  clear
+   36  pwd
+   37  mkdir SQL
+   38  PWD
+   39  cd SQL
+   40  ls
+   41  touch.goit.txt
+   42  touch goit.txt
+   43  ls
+   44  pwd
+   45  rm goit.txt
+   46  rmdir SQL
+   47  rm SQL
+   48  rm Api
+   49  rm -r SQL
+   50  cd ..
+   51  rm SQL
+   52  rm -r SQL
+   53  rmdir Api
+   54  clear
+   55  date
+   56  ping
+   57  ping www.google.com
+   58  clear
+   59  systeminfo
+   60  clear
+   61  ipconfig
+   62  clear
+   63  git config --global user.name olechkayldz
+   64  git config --global user.email olgaklsv22
+   65  git config --global user.name
+   66  git config --global user.email
+   67  pwd
+   68  cd aql
+   69  cd sql
+   70  git init
+   71  git add .
+   72  git commit -m "ilk versiyon"
+   73  git remote add origin https://github.com/olechkayldz/goitx.git
+   74  git push -u origin master
+   75  clear
+   76  git branch
+   77  git branch olga
+   78  git branch
+   79  git branch kaan
+   80  git branch
+   81  git checkout olga
+   82  git branch
+   83  git checkout master
+   84  git checkout olga
+   85  git checkout master
+   86  clear
+   87  git add .
+   88  git commit -m "master ilk commit"
+   89  git checkout olga
+   90  git add .
+   91  git commit -m "olechka"
+   92  git checkout master
+   93  git checkout olga
+   94  g
+   95  clear
+   96  git checkout master
+   97  git merge olga
+   98  git add .
+   99  git commit -m "v2"
+  100  git push
+  101  git checkout olga
+  102  git merge master
+  103  git add .
+  104  git commit -m "son hali"
+  105  cd �/Desktop
+  106  clear
+  107  cd ~/Desktop
+  108  git clone https://github.com/olechkayldz/HW_10.git
+  109  cd HW_10
+  110  touch text_ignore.txt
+  111  git status
+  112  git add .
+  113  git commit m- "gizlendi"
+  114  git commit -m "gizlendi"
+  115  git push origin main
+  116  clear
+  117  touch main_test.txt
+  118  git add .
+  119  commit -m "dosya eklendi"
+  120  git commit -m "dosya eklendi"
+  121  git push 
+  122  git branch develop
+  123  git checkout develop
+  124  git commit -m " yeni branch"
+  125  git touch develop_test.txt
+  126  touch develop_test.txt
+  127  git add .
+  128  git commit -m "yeni dosya"
+  129  git push
+  130  git push origin develop
+  131  git status
+  132  git commit -m "görev3"
+  133  git push
+  134  git add .
+  135  git commit -m "görev3"
+  136  push
+  137  git push
+  138  git push origin develop
+  139  git checkout main
+  140  git merge develop
+  141  git push
+  142  git log --oneline
+  143  git BASH history > command_list.csv
+  144   history > command_list.csv
